@@ -1,18 +1,7 @@
-sass
-iconos en ski
 links
 
 	platzi-badge
 
 
-
-
-Agregar imagenes
-	simon dice
-	bebidas
-
 crear lista producto para subirlo
 
-portafolio1
-
-bilding a la img para bajarle resolucion
